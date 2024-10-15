@@ -1,0 +1,2106 @@
+[
+  {
+    "id": 1,
+    "img": "https://media.istockphoto.com/id/636332456/photo/online-education-concept.jpg?s=612x612&w=0&k=20&c=a2m2jmoTXjJ3VthO1vvnpWT5FrHasFfVghSTUo2PH48=",
+    "name": "Math",
+    "questions": [
+        {
+            "id": 1,
+            "text": "8 ÷ 2(2 + 2)",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "16",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "1",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "8",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "24",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "text": "sqrt(64) * 9",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "4",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "81",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "72",
+                    "isCorrect": true
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "144",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "text": "3 + 3 x 3 ÷ 3 - 3",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "3",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "1",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "9",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "16",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "text": "What is the value of pi to two decimal places?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "3.12",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "3.14",
+                    "isCorrect": true
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "3.16",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "3.18",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "text": "If x + 5 = 12, what is x?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "7",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "6",
+                    "isCorrect": true
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "5",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "8",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "text": "What is the next prime number after 7?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "9",
+                    "isCorrect": false
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "11",
+                    "isCorrect": true
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "13",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "15",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "text": "What is 15% of 200?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "30",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "25",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "35",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "20",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "text": "What is the square root of 144?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "14",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "16",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "text": "If a triangle has angles of 90° and 45°, what is the third angle?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "45°",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "60°",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "30°",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "90°",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "text": "What is the area of a circle with a radius of 7?",
+            "options": [
+                {
+                    "id": 1,
+                    "label": "A",
+                    "text": "154",
+                    "isCorrect": true
+                },
+                {
+                    "id": 2,
+                    "label": "B",
+                    "text": "144",
+                    "isCorrect": false
+                },
+                {
+                    "id": 3,
+                    "label": "C",
+                    "text": "120",
+                    "isCorrect": false
+                },
+                {
+                    "id": 4,
+                    "label": "D",
+                    "text": "176",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+},
+
+
+{
+  "id": 2,
+  "img": "https://t3.ftcdn.net/jpg/05/70/43/80/360_F_570438028_uWbYjrILO5d4gNWGaoPMZX05yXTly8ix.jpg",
+  "name": "Chemistry",
+  "questions": [
+      {
+          "id": 1,
+          "text": "What is the composition of table salt?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "NaCl",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "K2",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "NaCl2C4H7",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "CH4",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "text": "What is Potassium's chemical symbol?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "P",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Pt",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Pts",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "K",
+                  "isCorrect": true
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "text": "Which is not organic?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "CH4",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "NaCl",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "C2H6",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "C3H8",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "text": "What is the pH of pure water?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "7",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "0",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "14",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "10",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "text": "What gas do plants absorb from the atmosphere?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Oxygen",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Carbon Dioxide",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Nitrogen",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Hydrogen",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 6,
+          "text": "What is the chemical formula for water?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "H2O",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "HO2",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "OH2",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "H2O2",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 7,
+          "text": "Which element is most abundant in the universe?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Oxygen",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Hydrogen",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Carbon",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Nitrogen",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the primary component of natural gas?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Methane",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Propane",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Butane",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Ethane",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 9,
+          "text": "What is the most reactive group of elements in the periodic table?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Noble gases",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Alkali metals",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Transition metals",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Halogens",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 10,
+          "text": "What type of bond involves the sharing of electron pairs?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Ionic bond",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Covalent bond",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Metallic bond",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Hydrogen bond",
+                  "isCorrect": false
+              }
+          ]
+      }
+  ]
+},
+
+
+
+{
+  "id": 3,
+  "img": "https://png.pngtree.com/thumb_back/fh260/background/20240624/pngtree-the-use-of-microscopy-in-amoeba-research-to-study-living-cells-image_15807456.jpg",
+  "name": "Biology",
+  "questions": [
+      {
+          "id": 1,
+          "text": "The Kreb Cycle occurs in the?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Mitochondria",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Nucleus",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Rough ER",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Cytosol",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "text": "How many oxygen molecules can hemoglobin hold?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "1",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "2",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "3",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "4",
+                  "isCorrect": true
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "text": "The cones see ___ while the rods see ___?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "black and white; color",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "color; black and white",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "3D objects; 2D shapes",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "2D shapes; 3D objects",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "text": "What is the basic unit of life?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Atom",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Molecule",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Cell",
+                  "isCorrect": true
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Organ",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "text": "What organ is responsible for filtering blood?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Heart",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Kidneys",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Liver",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Lungs",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 6,
+          "text": "Which part of the cell contains genetic material?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Cytoplasm",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Nucleus",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Cell membrane",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Ribosome",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 7,
+          "text": "What is the powerhouse of the cell?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Nucleus",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Mitochondria",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Ribosome",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Endoplasmic reticulum",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the function of red blood cells?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "To carry oxygen",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "To fight infection",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "To clot blood",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "To transport nutrients",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 9,
+          "text": "What is the primary function of the immune system?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "To provide energy",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "To protect against disease",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "To regulate temperature",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "To support growth",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 10,
+          "text": "What is the primary source of energy for the body?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Carbohydrates",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Proteins",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Fats",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Vitamins",
+                  "isCorrect": false
+              }
+          ]
+      }
+  ]
+},
+{
+  "id": 4,
+  "img": "https://www.shutterstock.com/shutterstock/photos/2236328939/display_1500/stock-photo-mathematical-and-physics-equations-of-albert-einstein-and-sir-isaac-newton-and-other-equations-on-2236328939.jpg",
+  "name": "Physics",
+  "questions": [
+      {
+          "id": 1,
+          "text": "What is the speed of light in a vacuum?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "300,000 km/s",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "150,000 km/s",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "450,000 km/s",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "600,000 km/s",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "text": "What is the unit of force?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Newton",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Joule",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Pascal",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Watt",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "text": "What is the formula for kinetic energy?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "KE = mv^2",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "KE = 0.5mv^2",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "KE = mgh",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "KE = Fd",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "text": "What is the acceleration due to gravity on Earth?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "9.8 m/s²",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "8.9 m/s²",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "10.5 m/s²",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "9.0 m/s²",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "text": "Which of the following is a scalar quantity?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Velocity",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Acceleration",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Mass",
+                  "isCorrect": true
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Force",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 6,
+          "text": "What is the principle of conservation of energy?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Energy cannot be created or destroyed, only transformed.",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Energy can be created from nothing.",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Energy is always lost in transformations.",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Energy increases with velocity.",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 7,
+          "text": "Which law states that for every action, there is an equal and opposite reaction?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Newton's First Law",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Newton's Second Law",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Newton's Third Law",
+                  "isCorrect": true
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Law of Universal Gravitation",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the unit of electric current?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Volt",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Ampere",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Ohm",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Watt",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 9,
+          "text": "What is the main force that keeps planets in orbit around the sun?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "Electromagnetic force",
+                  "isCorrect": false
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "Gravitational force",
+                  "isCorrect": true
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "Frictional force",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "Nuclear force",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "id": 10,
+          "text": "Which of the following is the speed of sound in air at room temperature?",
+          "options": [
+              {
+                  "id": 1,
+                  "label": "A",
+                  "text": "343 m/s",
+                  "isCorrect": true
+              },
+              {
+                  "id": 2,
+                  "label": "B",
+                  "text": "1500 m/s",
+                  "isCorrect": false
+              },
+              {
+                  "id": 3,
+                  "label": "C",
+                  "text": "500 m/s",
+                  "isCorrect": false
+              },
+              {
+                  "id": 4,
+                  "label": "D",
+                  "text": "1000 m/s",
+                  "isCorrect": false
+              }
+          ]
+      }
+  ]
+},
+{
+  "id": 5,
+  "img": "https://thumbs.wbm.im/pw/small/cebc267c56675972d769b6d239edfac4.jpg",
+  "name": "Literature",
+  "questions": [
+      {
+          "id": 1,
+          "text": "Who wrote 'Romeo and Juliet'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "William Shakespeare", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Mark Twain", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Jane Austen", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Charles Dickens", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 2,
+          "text": "What is the main theme of '1984'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Totalitarianism", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Love", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Friendship", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "War", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 3,
+          "text": "Which novel features the character 'Holly Golightly'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Breakfast at Tiffany's", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Pride and Prejudice", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Moby Dick", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "The Great Gatsby", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 4,
+          "text": "Who is the author of 'The Catcher in the Rye'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "J.D. Salinger", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "F. Scott Fitzgerald", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Ernest Hemingway", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "George Orwell", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 5,
+          "text": "Which poem begins with 'Two roads diverged in a yellow wood'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "The Road Not Taken", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Stopping by Woods on a Snowy Evening", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "I Wandered Lonely as a Cloud", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Ode to a Nightingale", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 6,
+          "text": "Who wrote 'Pride and Prejudice'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Jane Austen", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Charlotte Brontë", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Emily Dickinson", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Virginia Woolf", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 7,
+          "text": "In which novel does 'I am no bird; and no net ensnares me' appear?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Jane Eyre", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Wuthering Heights", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Emma", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "The Tenant of Wildfell Hall", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the first book of the Harry Potter series?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Harry Potter and the Sorcerer's Stone", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Harry Potter and the Chamber of Secrets", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Harry Potter and the Prisoner of Azkaban", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Harry Potter and the Goblet of Fire", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 9,
+          "text": "Who wrote 'The Odyssey'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Homer", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Virgil", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Sophocles", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Plato", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 10,
+          "text": "Which Shakespeare play features the character 'Iago'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Othello", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Hamlet", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Macbeth", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "King Lear", "isCorrect": false}
+          ]
+      }
+  ]
+},
+
+{
+  "id": 6,
+  "img": "https://w0.peakpx.com/wallpaper/575/255/HD-wallpaper-geography-compass-geography-compass-map.jpg",
+  "name": "Geography",
+  "questions": [
+      {
+          "id": 1,
+          "text": "What is the capital of France?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Paris", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "London", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Berlin", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Madrid", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 2,
+          "text": "Which country is known as the Land of the Rising Sun?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Japan", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "China", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Thailand", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "South Korea", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 3,
+          "text": "What is the largest desert in the world?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Sahara", "isCorrect": false},
+              {"id": 2, "label": "B", "text": "Antarctic Desert", "isCorrect": true},
+              {"id": 3, "label": "C", "text": "Gobi Desert", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Kalahari Desert", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 4,
+          "text": "Which river is the longest in the world?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Nile", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Amazon", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Yangtze", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Mississippi", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 5,
+          "text": "What is the smallest country in the world?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Vatican City", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Monaco", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Nauru", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Tuvalu", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 6,
+          "text": "Which continent is the Sahara Desert located on?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Africa", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Asia", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Australia", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "South America", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 7,
+          "text": "Which ocean is the largest?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Pacific Ocean", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Atlantic Ocean", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Indian Ocean", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Arctic Ocean", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the capital city of Japan?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Tokyo", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Kyoto", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Osaka", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Hiroshima", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 9,
+          "text": "Which mountain is the tallest in the world?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Mount Everest", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "K2", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Kangchenjunga", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Lhotse", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 10,
+          "text": "What is the longest river in Asia?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Yangtze", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Mekong", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Ganges", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Indus", "isCorrect": false}
+          ]
+      }
+  ]
+},
+
+
+{
+  "id": 7,
+  "img": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+  "name": "History",
+  "questions": [
+      {
+          "id": 1,
+          "text": "Who was the first president of the United States?",
+          "options": [
+              {"id": 1, "label": "A", "text": "George Washington", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Thomas Jefferson", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Abraham Lincoln", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "John Adams", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 2,
+          "text": "In which year did the Titanic sink?",
+          "options": [
+              {"id": 1, "label": "A", "text": "1912", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "1915", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "1920", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "1930", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 3,
+          "text": "Who was the first man to walk on the moon?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Neil Armstrong", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Buzz Aldrin", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Yuri Gagarin", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Michael Collins", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 4,
+          "text": "What ancient civilization built the pyramids?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Egyptians", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Greeks", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Romans", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Maya", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 5,
+          "text": "What was the primary cause of World War I?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Assassination of Archduke Franz Ferdinand", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Economic Crisis", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Colonial Rivalries", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Nationalism", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 6,
+          "text": "What event marked the beginning of the French Revolution?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Storming of the Bastille", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Execution of Louis XVI", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Reign of Terror", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Napoleonic Wars", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 7,
+          "text": "Which empire was known as the 'Sun Never Sets'?",
+          "options": [
+              {"id": 1, "label": "A", "text": "British Empire", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Ottoman Empire", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Roman Empire", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Mongol Empire", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 8,
+          "text": "Who was known as the Iron Lady?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Margaret Thatcher", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Golda Meir", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Angela Merkel", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Indira Gandhi", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 9,
+          "text": "Which war was fought between the North and South regions in the United States?",
+          "options": [
+              {"id": 1, "label": "A", "text": "American Civil War", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "World War I", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "World War II", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Vietnam War", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 10,
+          "text": "What year did the Berlin Wall fall?",
+          "options": [
+              {"id": 1, "label": "A", "text": "1989", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "1991", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "1987", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "1990", "isCorrect": false}
+          ]
+      }
+  ]
+},
+
+{
+  "id": 8,
+  "img": "https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg",
+  "name": "Science",
+  "questions": [
+      {
+          "id": 1,
+          "text": "What is the chemical symbol for water?",
+          "options": [
+              {"id": 1, "label": "A", "text": "H₂O", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "O₂", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "CO₂", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "NaCl", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 2,
+          "text": "What is the process by which plants make their food?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Photosynthesis", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Respiration", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Digestion", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Fermentation", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 3,
+          "text": "What is the powerhouse of the cell?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Mitochondria", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Nucleus", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Ribosome", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Endoplasmic Reticulum", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 4,
+          "text": "What is the chemical formula for table salt?",
+          "options": [
+              {"id": 1, "label": "A", "text": "NaCl", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "KCl", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "MgCl₂", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "CaCl₂", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 5,
+          "text": "What is the main gas that plants use for photosynthesis?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Carbon Dioxide", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Oxygen", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Nitrogen", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Hydrogen", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 6,
+          "text": "What type of bond is formed when electrons are shared?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Covalent bond", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Ionic bond", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Hydrogen bond", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Metallic bond", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 7,
+          "text": "What is the most abundant gas in the Earth's atmosphere?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Nitrogen", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Oxygen", "isCorrect": false},
+              {"id": 3, "text": "C", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Carbon Dioxide", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the largest organ in the human body?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Skin", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Liver", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Heart", "isCorrect": false},
+              {"id": 4, "text": "D", "text": "Lungs", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 9,
+          "text": "What is the boiling point of water?",
+          "options": [
+              {"id": 1, "label": "A", "text": "100°C", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "0°C", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "50°C", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "25°C", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 10,
+          "text": "What is the chemical symbol for gold?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Au", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Ag", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Fe", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Hg", "isCorrect": false}
+          ]
+      }
+  ]
+},
+
+{
+  "id": 9,
+  "img": "https://previews.123rf.com/images/balabolka/balabolka1607/balabolka160700033/60259269-cartoon-cute-doodles-hand-drawn-art-frame-concept-colorful-detailed-with-lots-of-objects-background.jpg",
+  "name": "Art",
+  "questions": [
+      {
+          "id": 1,
+          "text": "Who painted the Mona Lisa?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Leonardo da Vinci", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Vincent van Gogh", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Pablo Picasso", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Claude Monet", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 2,
+          "text": "What is the primary medium used in oil painting?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Oil", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Watercolor", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Acrylic", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Charcoal", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 3,
+          "text": "Which artist is known for his Starry Night painting?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Vincent van Gogh", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Claude Monet", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Pablo Picasso", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Henri Matisse", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 4,
+          "text": "What art movement is Claude Monet associated with?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Impressionism", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Cubism", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Surrealism", "isCorrect": false},
+              {"id": 4, "text": "D", "text": "Baroque", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 5,
+          "text": "Which artist is known for his sculpture The Thinker?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Auguste Rodin", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Henry Moore", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Alberto Giacometti", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Donatello", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 6,
+          "text": "What is the primary focus of Surrealism?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Dreams and the unconscious", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Realism", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Abstraction", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Perspective", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 7,
+          "text": "What technique is used to create a three-dimensional effect on a flat surface?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Chiaroscuro", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Fresco", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Pointillism", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Collage", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 8,
+          "text": "What is the term for a painting created on wet plaster?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Fresco", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Mural", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Canvas", "isCorrect": false},
+              {"id": 4, "text": "D", "text": "Tempera", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 9,
+          "text": "Which color is not a primary color?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Green", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Red", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Blue", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Yellow", "isCorrect": false}
+          ]
+      },
+      {
+          "id": 10,
+          "text": "What is the term for a series of paintings created by one artist in a specific style or on a specific theme?",
+          "options": [
+              {"id": 1, "label": "A", "text": "Series", "isCorrect": true},
+              {"id": 2, "label": "B", "text": "Collection", "isCorrect": false},
+              {"id": 3, "label": "C", "text": "Exhibit", "isCorrect": false},
+              {"id": 4, "label": "D", "text": "Portfolio", "isCorrect": false}
+          ]
+      }
+  ]
+},
+
+
+{
+  "id": 10,
+  "img": "https://img.freepik.com/premium-vector/music-elements-vector-illustration-with-various-note-musical-instruments-modern_2175-17806.jpg",
+  "name": "Music",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who composed the Four Seasons?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Antonio Vivaldi", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Johann Sebastian Bach", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Wolfgang Amadeus Mozart", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Ludwig van Beethoven", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "What is the highest female singing voice?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Soprano", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Mezzo-soprano", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Alto", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Contralto", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Who is known as the 'King of Pop'?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Michael Jackson", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Elvis Presley", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Prince", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Freddie Mercury", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Which instrument is a woodwind instrument?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Clarinet", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Violin", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Trumpet", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Piano", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "What is the name of Beethoven's only opera?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Fidelio", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Don Giovanni", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "The Magic Flute", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "The Barber of Seville", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Which famous composer was deaf?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Ludwig van Beethoven", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Johannes Brahms", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Franz Schubert", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Franz Liszt", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "What is the primary instrument in a string quartet?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Violin", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Piano", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Flute", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Cello", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Which musical period is Johann Sebastian Bach associated with?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Baroque", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Classical", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Romantic", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Modern", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Who wrote the opera 'Carmen'?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Georges Bizet", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Giuseppe Verdi", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Richard Wagner", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Wolfgang Amadeus Mozart", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Which instrument is used in jazz music?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Saxophone", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Harp", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Oboe", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Bassoon", "isCorrect": false}
+      ]
+    }
+  ]
+},
+{
+  "id": 11,
+  "img": "https://thumbs.dreamstime.com/b/digital-marketing-businessman-holding-global-circle-modern-inte-interface-payments-online-shopping-icon-customer-network-128341166.jpg",
+  "name": "Technology",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Who is the co-founder of Microsoft?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Bill Gates", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Steve Jobs", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Larry Page", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Jeff Bezos", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "What does HTML stand for?",
+      "options": [
+        {"id": 1, "label": "A", "text": "HyperText Markup Language", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Hyper Tool Markup Language", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Home Tool Markup Language", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Hyperlink Text Markup Language", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Which company is known for its iPhones?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Apple", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Samsung", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Google", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Microsoft", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "What does 'www' stand for in a website address?",
+      "options": [
+        {"id": 1, "label": "A", "text": "World Wide Web", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Web World Wide", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Wide Web World", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Wide World Web", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Which social media platform is known for tweets?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Twitter", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Facebook", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Instagram", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "LinkedIn", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "What does CPU stand for?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Central Processing Unit", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Computer Power Unit", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Central Performance Unit", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Core Processing Unit", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Which company created the Android operating system?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Google", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Apple", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Microsoft", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Samsung", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "What programming language is used to build iOS apps?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Swift", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Kotlin", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "JavaScript", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Python", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Who is the CEO of Tesla?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Elon Musk", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Tim Cook", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Sundar Pichai", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Satya Nadella", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "What year was the first iPhone released?",
+      "options": [
+        {"id": 1, "label": "A", "text": "2007", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "2008", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "2005", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "2010", "isCorrect": false}
+      ]
+    }
+  ]
+},
+{
+  "id": 12,
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4NYBzsY1u58OC-iDimTdGYVtMr4mAbBuuQ&s",
+  "name": "Sports",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which country won the 2018 FIFA World Cup?",
+      "options": [
+        {"id": 1, "label": "A", "text": "France", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Brazil", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Germany", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Argentina", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Which sport is known as 'The Beautiful Game'?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Soccer", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Basketball", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Tennis", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Cricket", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Which player has won the most NBA championships?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Bill Russell", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Michael Jordan", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "LeBron James", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Kobe Bryant", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "In which sport is a 'touchdown' scored?",
+      "options": [
+        {"id": 1, "label": "A", "text": "American Football", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Rugby", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Basketball", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Baseball", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Which athlete is known as 'The Fastest Man on Earth'?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Usain Bolt", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Tyson Gay", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Carl Lewis", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Jesse Owens", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How many players are on a baseball team?",
+      "options": [
+        {"id": 1, "label": "A", "text": "9", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "11", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "7", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "6", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Which country has won the most Olympic gold medals?",
+      "options": [
+        {"id": 1, "label": "A", "text": "United States", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "China", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Russia", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Germany", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "In tennis, what is the term for a score of zero?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Love", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Deuce", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Ace", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Fault", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Which sport is played at Wimbledon?",
+      "options": [
+        {"id": 1, "label": "A", "text": "Tennis", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "Cricket", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "Golf", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "Rugby", "isCorrect": false}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How many points is a field goal worth in basketball?",
+      "options": [
+        {"id": 1, "label": "A", "text": "2", "isCorrect": true},
+        {"id": 2, "label": "B", "text": "3", "isCorrect": false},
+        {"id": 3, "label": "C", "text": "1", "isCorrect": false},
+        {"id": 4, "label": "D", "text": "4", "isCorrect": false}
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+]
